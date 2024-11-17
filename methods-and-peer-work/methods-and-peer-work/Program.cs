@@ -4,8 +4,12 @@
     {
         static void Main(string[] args)
         {
+            /* Maxwell Sigrest
+             * IGME 201 - interactive Des & Alg Prob Sol III
+             * Dat: 11/17/2024 */
+
             //declaration
-            int maxFavNum;
+            int maxFavNum; 
             int partnerFavNum;
             int addValue;
             int subValue;
